@@ -1,375 +1,386 @@
-{
-    "Bangladesh": [
-      {
-        "id": 1,
-        "image": "https://i.ibb.co/k2NHVDt/Sundarbans.jpg",
-        "tourists_spot_name": "Sundarbans",
-        "country_Name": "Bangladesh",
-        "location": "Khulna Division",
-        "short_description": "Largest mangrove forest, home to Bengal tigers",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "3 days",
-        "totalVisitorsPerYear": 1000000
-      },
-      {
-        "id": 2,
-        "image": "https://i.ibb.co/k3b0YtJ/Cox-s-Bazar.webp",
-        "tourists_spot_name": "Cox's Bazar",
-        "country_Name": "Bangladesh",
-        "location": "Chittagong Division",
-        "short_description": "Longest natural sea beach in the world",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 1500000
-      },
-      {
-        "id": 3,
-        "image": "https://i.ibb.co/hCzXxzX/Rangamati.jpg",
-        "tourists_spot_name": "Rangamati",
-        "country_Name": "Bangladesh",
-        "location": "Chittagong Hill Tracts",
-        "short_description": "Hill district with lakes, hills, and indigenous culture",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 500000
-      },
-      {
-        "id": 4,
-        "image": "https://i.ibb.co/qNwjyKQ/Bandarban.jpg",
-        "tourists_spot_name": "Bandarban",
-        "country_Name": "Bangladesh",
-        "location": "Chittagong Hill Tracts",
-        "short_description": "Scenic hill town with trekking opportunities",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 300000
-      },
-      {
-        "id": 5,
-        "image": "https://i.ibb.co/FbWDtf5/Saint-Martin-s-Island.jpg",
-        "tourists_spot_name": "Saint Martin’s Island",
-        "country_Name": "Bangladesh",
-        "location": "Bay of Bengal",
-        "short_description": "Picturesque coral island in the Bay of Bengal",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "1 day",
-        "totalVisitorsPerYear": 200000
+[
+    {
+        "Bangladesh": [
+            {
+              "id": 1,
+              "image": "https://i.ibb.co/k2NHVDt/Sundarbans.jpg",
+              "tourists_spot_name": "Sundarbans",
+              "country_Name": "Bangladesh",
+              "location": "Khulna Division",
+              "short_description": "Largest mangrove forest, home to Bengal tigers",
+              "average_cost": "Varies",
+              "seasonality": "Year-round",
+              "travel_time": "3 days",
+              "totalVisitorsPerYear": 1000000
+            },
+            {
+              "id": 2,
+              "image": "https://i.ibb.co/k3b0YtJ/Cox-s-Bazar.webp",
+              "tourists_spot_name": "Cox's Bazar",
+              "country_Name": "Bangladesh",
+              "location": "Chittagong Division",
+              "short_description": "Longest natural sea beach in the world",
+              "average_cost": "Varies",
+              "seasonality": "Year-round",
+              "travel_time": "2 days",
+              "totalVisitorsPerYear": 1500000
+            },
+            {
+              "id": 3,
+              "image": "https://i.ibb.co/hCzXxzX/Rangamati.jpg",
+              "tourists_spot_name": "Rangamati",
+              "country_Name": "Bangladesh",
+              "location": "Chittagong Hill Tracts",
+              "short_description": "Hill district with lakes, hills, and indigenous culture",
+              "average_cost": "Varies",
+              "seasonality": "Year-round",
+              "travel_time": "2 days",
+              "totalVisitorsPerYear": 500000
+            },
+            {
+              "id": 4,
+              "image": "https://i.ibb.co/qNwjyKQ/Bandarban.jpg",
+              "tourists_spot_name": "Bandarban",
+              "country_Name": "Bangladesh",
+              "location": "Chittagong Hill Tracts",
+              "short_description": "Scenic hill town with trekking opportunities",
+              "average_cost": "Varies",
+              "seasonality": "Year-round",
+              "travel_time": "2 days",
+              "totalVisitorsPerYear": 300000
+            },
+            {
+              "id": 5,
+              "image": "https://i.ibb.co/FbWDtf5/Saint-Martin-s-Island.jpg",
+              "tourists_spot_name": "Saint Martin’s Island",
+              "country_Name": "Bangladesh",
+              "location": "Bay of Bengal",
+              "short_description": "Picturesque coral island in the Bay of Bengal",
+              "average_cost": "Varies",
+              "seasonality": "Year-round",
+              "travel_time": "1 day",
+              "totalVisitorsPerYear": 200000
+            }
+          ]
+    },
+        {
+            "Thailand": [
+                {
+                  "id": 6,
+                  "image": "https://i.ibb.co/1TV4H2c/Bangkok.jpg",
+                  "tourists_spot_name": "Bangkok",
+                  "country_Name": "Thailand",
+                  "location": "Central Thailand",
+                  "short_description": "Capital city known for its vibrant street life and cultural landmarks",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "3 days",
+                  "totalVisitorsPerYear": 2000000
+                },
+                {
+                  "id": 7,
+                  "image": "https://i.ibb.co/557V8MC/Chiang-Mai.jpg",
+                  "tourists_spot_name": "Chiang Mai",
+                  "country_Name": "Thailand",
+                  "location": "Northern Thailand",
+                  "short_description": "City known for its ancient temples and vibrant night markets",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "2 days",
+                  "totalVisitorsPerYear": 1000000
+                },
+                {
+                  "id": 8,
+                  "image": "https://i.ibb.co/6X4WbTd/Ayutthaya.jpg",
+                  "tourists_spot_name": "Ayutthaya",
+                  "country_Name": "Thailand",
+                  "location": "Central Thailand",
+                  "short_description": "Ancient capital with ruins and temples",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "1 day",
+                  "totalVisitorsPerYear": 500000
+                },
+                {
+                  "id": 9,
+                  "image": "https://i.ibb.co/wJ2k1r9/Phuket.jpg",
+                  "tourists_spot_name": "Phuket",
+                  "country_Name": "Thailand",
+                  "location": "Southern Thailand",
+                  "short_description": "Island destination known for its beaches and nightlife",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "3 days",
+                  "totalVisitorsPerYear": 1500000
+                },
+                {
+                  "id": 10,
+                  "image": "https://i.ibb.co/XzLHJb5/Phi-Phi-Islands.jpg",
+                  "tourists_spot_name": "Phi Phi Islands",
+                  "country_Name": "Thailand",
+                  "location": "Southern Thailand",
+                  "short_description": "Group of islands with stunning beaches and clear waters",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "2 days",
+                  "totalVisitorsPerYear": 1000000
+                }
+              ]
+        },
+        {
+            "Indonesia": [
+                {
+                  "id": 11,
+                  "image": "https://i.ibb.co/RYn8NGq/Bali.webp",
+                  "tourists_spot_name": "Bali",
+                  "country_Name": "Indonesia",
+                  "location": "Lesser Sunda Islands",
+                  "short_description": "Island known for its beaches, coral reefs, and rice paddies",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "5 days",
+                  "totalVisitorsPerYear": 4000000
+                },
+                {
+                  "id": 12,
+                  "image": "https://i.ibb.co/CKxXbFr/Borobudur-Temple.jpg",
+                  "tourists_spot_name": "Borobudur Temple",
+                  "country_Name": "Indonesia",
+                  "location": "Central Java",
+                  "short_description": "Buddhist temple complex dating back to the 9th century",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "1 day",
+                  "totalVisitorsPerYear": 1000000
+                },
+                {
+                  "id": 13,
+                  "image": "https://i.ibb.co/ZfwFgBy/Komodo-National-Park.jpg",
+                  "tourists_spot_name": "Komodo National Park",
+                  "country_Name": "Indonesia",
+                  "location": "East Nusa Tenggara",
+                  "short_description": "Home to Komodo dragons and diverse marine life",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "2 days",
+                  "totalVisitorsPerYear": 500000
+                },
+                {
+                  "id": 14,
+                  "image": "https://i.ibb.co/Hg052jf/Raja-Ampat-Islands.jpg",
+                  "tourists_spot_name": "Raja Ampat Islands",
+                  "country_Name": "Indonesia",
+                  "location": "West Papua",
+                  "short_description": "Archipelago known for its stunning marine biodiversity",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "3 days",
+                  "totalVisitorsPerYear": 300000
+                },
+                {
+                  "id": 15,
+                  "image": "https://i.ibb.co/VTrF83M/Yogyakarta.jpg",
+                  "tourists_spot_name": "Yogyakarta",
+                  "country_Name": "Indonesia",
+                  "location": "Java",
+                  "short_description": "Cultural hub known for its temples and traditional arts",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "3 days",
+                  "totalVisitorsPerYear": 2000000
+                }
+              ]
+        },
+        {
+            "Malaysia": [
+                {
+                  "id": 16,
+                  "image": "https://i.ibb.co/k63TnTH/Kuala-Lumpur.webp",
+                  "tourists_spot_name": "Kuala Lumpur",
+                  "country_Name": "Malaysia",
+                  "location": "Peninsular Malaysia",
+                  "short_description": "Capital city known for its modern skyline and colonial buildings",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "3 days",
+                  "totalVisitorsPerYear": 3000000
+                },
+                {
+                  "id": 17,
+                  "image": "https://i.ibb.co/6sC4fh6/Langkawi.jpg",
+                  "tourists_spot_name": "Langkawi",
+                  "country_Name": "Malaysia",
+                  "location": "Langkawi Island",
+                  "short_description": "Island destination known for its beaches and natural beauty",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "3 days",
+                  "totalVisitorsPerYear": 2000000
+                },
+                {
+                  "id": 18,
+                  "image": "https://i.ibb.co/92KRT5D/Penang.jpg",
+                  "tourists_spot_name": "Penang",
+                  "country_Name": "Malaysia",
+                  "location": "Penang Island",
+                  "short_description": "Cultural melting pot known for its food and heritage sites",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "2 days",
+                  "totalVisitorsPerYear": 1500000
+                },
+                {
+                  "id": 19,
+                  "image": "https://i.ibb.co/R3wbZDx/Cameron-Highlands.webp",
+                  "tourists_spot_name": "Cameron Highlands",
+                  "country_Name": "Malaysia",
+                  "location": "Pahang",
+                  "short_description": "Hill station known for its tea plantations and cool climate",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "2 days",
+                  "totalVisitorsPerYear": 1000000
+                },
+                {
+                  "id": 20,
+                  "image": "https://i.ibb.co/swdYvdT/Taman-Negara-National-Park.jpg",
+                  "tourists_spot_name": "Taman Negara National Park",
+                  "country_Name": "Malaysia",
+                  "location": "Pahang",
+                  "short_description": "Oldest rainforest in the world with diverse flora and fauna",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "2 days",
+                  "totalVisitorsPerYear": 800000
+                }
+              ]
+        },
+        {
+            "Vietnam": [
+                {
+                  "id": 21,
+                  "image": "https://i.ibb.co/F6t16mn/Ha-Long-Bay.jpg",
+                  "tourists_spot_name": "Ha Long Bay",
+                  "country_Name": "Vietnam",
+                  "location": "Quang Ninh Province",
+                  "short_description": "Scenic bay with limestone islands and emerald waters",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "2 days",
+                  "totalVisitorsPerYear": 2000000
+                },
+                {
+                  "id": 22,
+                  "image": "https://i.ibb.co/mq5QgfM/Ho-Chi-Minh-City.jpg",
+                  "tourists_spot_name": "Ho Chi Minh City",
+                  "country_Name": "Vietnam",
+                  "location": "Southern Vietnam",
+                  "short_description": "Lively metropolis known for its French colonial landmarks",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "3 days",
+                  "totalVisitorsPerYear": 3000000
+                },
+                {
+                  "id": 23,
+                  "image": "https://i.ibb.co/8DqvRBp/Hoi-An-Ancient-Town.jpg",
+                  "tourists_spot_name": "Hoi An Ancient Town",
+                  "country_Name": "Vietnam",
+                  "location": "Central Vietnam",
+                  "short_description": "Well-preserved historic town with lantern-lit streets",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "2 days",
+                  "totalVisitorsPerYear": 1500000
+                },
+                {
+                  "id": 24,
+                  "image": "https://i.ibb.co/QJwQxW7/Phong-Nha-Caves.jpg",
+                  "tourists_spot_name": "Phong Nha Caves",
+                  "country_Name": "Vietnam",
+                  "location": "Central Vietnam",
+                  "short_description": "Karst cave system with underground rivers and stalactites",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "1 day",
+                  "totalVisitorsPerYear": 500000
+                },
+                {
+                  "id": 25,
+                  "image": "https://i.ibb.co/w40HT8z/Mekong-Delta.jpg",
+                  "tourists_spot_name": "Mekong Delta",
+                  "country_Name": "Vietnam",
+                  "location": "Southern Vietnam",
+                  "short_description": "Rural region known for its floating markets and rice paddies",
+                  "average_cost": "Varies",
+                  "seasonality": "Year-round",
+                  "travel_time": "2 days",
+                  "totalVisitorsPerYear": 1000000
+                }
+              ]
+        },
+        {"Cambodia": [
+            {
+              "id": 26,
+              "image": "https://i.ibb.co/RPfDHjk/Angkor-Wat.jpg",
+              "tourists_spot_name": "Angkor Wat",
+              "country_Name": "Cambodia",
+              "location": "Siem Reap Province",
+              "short_description": "Magnificent temple complex dating back to the 12th century",
+              "average_cost": "Varies",
+              "seasonality": "Year-round",
+              "travel_time": "2 days",
+              "totalVisitorsPerYear": 2000000
+            },
+            {
+              "id": 27,
+              "image": "https://i.ibb.co/hdbdfLY/Siem-Reap.webp",
+              "tourists_spot_name": "Siem Reap",
+              "country_Name": "Cambodia",
+              "location": "Siem Reap Province",
+              "short_description": "Gateway to Angkor Wat and vibrant nightlife",
+              "average_cost": "Varies",
+              "seasonality": "Year-round",
+              "travel_time": "2 days",
+              "totalVisitorsPerYear": 1000000
+            },
+            {
+              "id": 28,
+              "image": "https://i.ibb.co/QQZph09/Phnom-Penh.jpg",
+              "tourists_spot_name": "Phnom Penh",
+              "country_Name": "Cambodia",
+              "location": "Phnom Penh Province",
+              "short_description": "Capital city with historic landmarks and vibrant markets",
+              "average_cost": "Varies",
+              "seasonality": "Year-round",
+              "travel_time": "2 days",
+              "totalVisitorsPerYear": 800000
+            },
+            {
+              "id": 29,
+              "image": "https://i.ibb.co/rxBBy98/Kep.webp",
+              "tourists_spot_name": "Kep",
+              "country_Name": "Cambodia",
+              "location": "Kep Province",
+              "short_description": "Coastal town known for its seafood and French colonial villas",
+              "average_cost": "Varies",
+              "seasonality": "Year-round",
+              "travel_time": "1 day",
+              "totalVisitorsPerYear": 500000
+            },
+            {
+              "id": 30,
+              "image": "https://i.ibb.co/F5z1VFd/Bokor-National-Park.jpg",
+              "tourists_spot_name": "Bokor National Park",
+              "country_Name": "Cambodia",
+              "location": "Kampot Province",
+              "short_description": "Hill station with ruins and panoramic views",
+              "average_cost": "Varies",
+              "seasonality": "Year-round",
+              "travel_time": "1 day",
+              "totalVisitorsPerYear": 300000
+            }
+          ]
       }
-    ],
-    "Thailand": [
-      {
-        "id": 6,
-        "image": "https://i.ibb.co/1TV4H2c/Bangkok.jpg",
-        "tourists_spot_name": "Bangkok",
-        "country_Name": "Thailand",
-        "location": "Central Thailand",
-        "short_description": "Capital city known for its vibrant street life and cultural landmarks",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "3 days",
-        "totalVisitorsPerYear": 2000000
-      },
-      {
-        "id": 7,
-        "image": "https://i.ibb.co/557V8MC/Chiang-Mai.jpg",
-        "tourists_spot_name": "Chiang Mai",
-        "country_Name": "Thailand",
-        "location": "Northern Thailand",
-        "short_description": "City known for its ancient temples and vibrant night markets",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 1000000
-      },
-      {
-        "id": 8,
-        "image": "https://i.ibb.co/6X4WbTd/Ayutthaya.jpg",
-        "tourists_spot_name": "Ayutthaya",
-        "country_Name": "Thailand",
-        "location": "Central Thailand",
-        "short_description": "Ancient capital with ruins and temples",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "1 day",
-        "totalVisitorsPerYear": 500000
-      },
-      {
-        "id": 9,
-        "image": "https://i.ibb.co/wJ2k1r9/Phuket.jpg",
-        "tourists_spot_name": "Phuket",
-        "country_Name": "Thailand",
-        "location": "Southern Thailand",
-        "short_description": "Island destination known for its beaches and nightlife",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "3 days",
-        "totalVisitorsPerYear": 1500000
-      },
-      {
-        "id": 10,
-        "image": "https://i.ibb.co/XzLHJb5/Phi-Phi-Islands.jpg",
-        "tourists_spot_name": "Phi Phi Islands",
-        "country_Name": "Thailand",
-        "location": "Southern Thailand",
-        "short_description": "Group of islands with stunning beaches and clear waters",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 1000000
-      }
-    ],
-    "Indonesia": [
-      {
-        "id": 11,
-        "image": "https://i.ibb.co/RYn8NGq/Bali.webp",
-        "tourists_spot_name": "Bali",
-        "country_Name": "Indonesia",
-        "location": "Lesser Sunda Islands",
-        "short_description": "Island known for its beaches, coral reefs, and rice paddies",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "5 days",
-        "totalVisitorsPerYear": 4000000
-      },
-      {
-        "id": 12,
-        "image": "https://i.ibb.co/CKxXbFr/Borobudur-Temple.jpg",
-        "tourists_spot_name": "Borobudur Temple",
-        "country_Name": "Indonesia",
-        "location": "Central Java",
-        "short_description": "Buddhist temple complex dating back to the 9th century",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "1 day",
-        "totalVisitorsPerYear": 1000000
-      },
-      {
-        "id": 13,
-        "image": "https://i.ibb.co/ZfwFgBy/Komodo-National-Park.jpg",
-        "tourists_spot_name": "Komodo National Park",
-        "country_Name": "Indonesia",
-        "location": "East Nusa Tenggara",
-        "short_description": "Home to Komodo dragons and diverse marine life",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 500000
-      },
-      {
-        "id": 14,
-        "image": "https://i.ibb.co/Hg052jf/Raja-Ampat-Islands.jpg",
-        "tourists_spot_name": "Raja Ampat Islands",
-        "country_Name": "Indonesia",
-        "location": "West Papua",
-        "short_description": "Archipelago known for its stunning marine biodiversity",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "3 days",
-        "totalVisitorsPerYear": 300000
-      },
-      {
-        "id": 15,
-        "image": "https://i.ibb.co/VTrF83M/Yogyakarta.jpg",
-        "tourists_spot_name": "Yogyakarta",
-        "country_Name": "Indonesia",
-        "location": "Java",
-        "short_description": "Cultural hub known for its temples and traditional arts",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "3 days",
-        "totalVisitorsPerYear": 2000000
-      }
-    ],
-    "Malaysia": [
-      {
-        "id": 16,
-        "image": "https://i.ibb.co/k63TnTH/Kuala-Lumpur.webp",
-        "tourists_spot_name": "Kuala Lumpur",
-        "country_Name": "Malaysia",
-        "location": "Peninsular Malaysia",
-        "short_description": "Capital city known for its modern skyline and colonial buildings",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "3 days",
-        "totalVisitorsPerYear": 3000000
-      },
-      {
-        "id": 17,
-        "image": "https://i.ibb.co/6sC4fh6/Langkawi.jpg",
-        "tourists_spot_name": "Langkawi",
-        "country_Name": "Malaysia",
-        "location": "Langkawi Island",
-        "short_description": "Island destination known for its beaches and natural beauty",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "3 days",
-        "totalVisitorsPerYear": 2000000
-      },
-      {
-        "id": 18,
-        "image": "https://i.ibb.co/92KRT5D/Penang.jpg",
-        "tourists_spot_name": "Penang",
-        "country_Name": "Malaysia",
-        "location": "Penang Island",
-        "short_description": "Cultural melting pot known for its food and heritage sites",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 1500000
-      },
-      {
-        "id": 19,
-        "image": "https://i.ibb.co/R3wbZDx/Cameron-Highlands.webp",
-        "tourists_spot_name": "Cameron Highlands",
-        "country_Name": "Malaysia",
-        "location": "Pahang",
-        "short_description": "Hill station known for its tea plantations and cool climate",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 1000000
-      },
-      {
-        "id": 20,
-        "image": "https://i.ibb.co/swdYvdT/Taman-Negara-National-Park.jpg",
-        "tourists_spot_name": "Taman Negara National Park",
-        "country_Name": "Malaysia",
-        "location": "Pahang",
-        "short_description": "Oldest rainforest in the world with diverse flora and fauna",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 800000
-      }
-    ],
-    "Vietnam": [
-      {
-        "id": 21,
-        "image": "https://i.ibb.co/F6t16mn/Ha-Long-Bay.jpg",
-        "tourists_spot_name": "Ha Long Bay",
-        "country_Name": "Vietnam",
-        "location": "Quang Ninh Province",
-        "short_description": "Scenic bay with limestone islands and emerald waters",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 2000000
-      },
-      {
-        "id": 22,
-        "image": "https://i.ibb.co/mq5QgfM/Ho-Chi-Minh-City.jpg",
-        "tourists_spot_name": "Ho Chi Minh City",
-        "country_Name": "Vietnam",
-        "location": "Southern Vietnam",
-        "short_description": "Lively metropolis known for its French colonial landmarks",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "3 days",
-        "totalVisitorsPerYear": 3000000
-      },
-      {
-        "id": 23,
-        "image": "https://i.ibb.co/8DqvRBp/Hoi-An-Ancient-Town.jpg",
-        "tourists_spot_name": "Hoi An Ancient Town",
-        "country_Name": "Vietnam",
-        "location": "Central Vietnam",
-        "short_description": "Well-preserved historic town with lantern-lit streets",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 1500000
-      },
-      {
-        "id": 24,
-        "image": "https://i.ibb.co/QJwQxW7/Phong-Nha-Caves.jpg",
-        "tourists_spot_name": "Phong Nha Caves",
-        "country_Name": "Vietnam",
-        "location": "Central Vietnam",
-        "short_description": "Karst cave system with underground rivers and stalactites",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "1 day",
-        "totalVisitorsPerYear": 500000
-      },
-      {
-        "id": 25,
-        "image": "https://i.ibb.co/w40HT8z/Mekong-Delta.jpg",
-        "tourists_spot_name": "Mekong Delta",
-        "country_Name": "Vietnam",
-        "location": "Southern Vietnam",
-        "short_description": "Rural region known for its floating markets and rice paddies",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 1000000
-      }
-    ],
-    "Cambodia": [
-      {
-        "id": 26,
-        "image": "https://i.ibb.co/RPfDHjk/Angkor-Wat.jpg",
-        "tourists_spot_name": "Angkor Wat",
-        "country_Name": "Cambodia",
-        "location": "Siem Reap Province",
-        "short_description": "Magnificent temple complex dating back to the 12th century",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 2000000
-      },
-      {
-        "id": 27,
-        "image": "https://i.ibb.co/hdbdfLY/Siem-Reap.webp",
-        "tourists_spot_name": "Siem Reap",
-        "country_Name": "Cambodia",
-        "location": "Siem Reap Province",
-        "short_description": "Gateway to Angkor Wat and vibrant nightlife",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 1000000
-      },
-      {
-        "id": 28,
-        "image": "https://i.ibb.co/QQZph09/Phnom-Penh.jpg",
-        "tourists_spot_name": "Phnom Penh",
-        "country_Name": "Cambodia",
-        "location": "Phnom Penh Province",
-        "short_description": "Capital city with historic landmarks and vibrant markets",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "2 days",
-        "totalVisitorsPerYear": 800000
-      },
-      {
-        "id": 29,
-        "image": "https://i.ibb.co/rxBBy98/Kep.webp",
-        "tourists_spot_name": "Kep",
-        "country_Name": "Cambodia",
-        "location": "Kep Province",
-        "short_description": "Coastal town known for its seafood and French colonial villas",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "1 day",
-        "totalVisitorsPerYear": 500000
-      },
-      {
-        "id": 30,
-        "image": "https://i.ibb.co/F5z1VFd/Bokor-National-Park.jpg",
-        "tourists_spot_name": "Bokor National Park",
-        "country_Name": "Cambodia",
-        "location": "Kampot Province",
-        "short_description": "Hill station with ruins and panoramic views",
-        "average_cost": "Varies",
-        "seasonality": "Year-round",
-        "travel_time": "1 day",
-        "totalVisitorsPerYear": 300000
-      }
-    ]
-  }
-
+    
+]
