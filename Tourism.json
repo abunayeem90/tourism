@@ -1,6 +1,5 @@
 [
-    {
-        "Bangladesh": [
+       
             {
               "id": 1,
               "image": "https://i.ibb.co/k2NHVDt/Sundarbans.jpg",
@@ -60,11 +59,8 @@
               "seasonality": "Year-round",
               "travel_time": "1 day",
               "totalVisitorsPerYear": 200000
-            }
-          ]
-    },
-        {
-            "Thailand": [
+            },
+        
                 {
                   "id": 6,
                   "image": "https://i.ibb.co/1TV4H2c/Bangkok.jpg",
@@ -124,11 +120,8 @@
                   "seasonality": "Year-round",
                   "travel_time": "2 days",
                   "totalVisitorsPerYear": 1000000
-                }
-              ]
-        },
-        {
-            "Indonesia": [
+                },
+        
                 {
                   "id": 11,
                   "image": "https://i.ibb.co/RYn8NGq/Bali.webp",
@@ -188,11 +181,8 @@
                   "seasonality": "Year-round",
                   "travel_time": "3 days",
                   "totalVisitorsPerYear": 2000000
-                }
-              ]
-        },
-        {
-            "Malaysia": [
+                },
+        
                 {
                   "id": 16,
                   "image": "https://i.ibb.co/k63TnTH/Kuala-Lumpur.webp",
@@ -252,11 +242,8 @@
                   "seasonality": "Year-round",
                   "travel_time": "2 days",
                   "totalVisitorsPerYear": 800000
-                }
-              ]
-        },
-        {
-            "Vietnam": [
+                },
+       
                 {
                   "id": 21,
                   "image": "https://i.ibb.co/F6t16mn/Ha-Long-Bay.jpg",
@@ -316,10 +303,8 @@
                   "seasonality": "Year-round",
                   "travel_time": "2 days",
                   "totalVisitorsPerYear": 1000000
-                }
-              ]
-        },
-        {"Cambodia": [
+                },
+
             {
               "id": 26,
               "image": "https://i.ibb.co/RPfDHjk/Angkor-Wat.jpg",
@@ -380,7 +365,5 @@
               "travel_time": "1 day",
               "totalVisitorsPerYear": 300000
             }
-          ]
-      }
-    
+          
 ]
